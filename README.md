@@ -6,14 +6,15 @@ https://youtu.be/UjivxozPW4o
 
 
 
-Integrantes:
 
-Scrum Master:
+**Integrantes:
+Scrum Master:**
+
 
 Ana Amorim
 Pedro Minicz
 
-Time:
+**Time:**
 
 Adriano Ribeiro Martins
 
@@ -28,7 +29,8 @@ Paulo Vitor Lima Domingues
 Pedro Lucas dos Santos Rodrigues
 
 
-Sumário
+**Sumário**
+
 1.	Estória do Usuário	3
 2.	Requisitos Funcionais	3
 2.1 Motorista	3
