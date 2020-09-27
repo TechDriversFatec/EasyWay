@@ -40,11 +40,11 @@ Pedro Lucas dos Santos Rodrigues
 2.3 Aplicação	3
 3.	Requisitos não funcionais	3
 4.	Sprints	4
+__________________
 
 
 
-
-1.	Estória do Usuário
+1.  Estória do Usuário
 
 O motorista está tendo problemas com as rotas e tempo, em casos de usuários que não avisam que irão utilizar a van, perdendo tempo e gerando gastos, ou em casos que os usuários avisam existe perda de tempo com mapeamento de novas rotas. Assim o motorista deseja um aplicativo que solucione esses problemas.
 
