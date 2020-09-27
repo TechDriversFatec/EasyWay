@@ -8,9 +8,9 @@ _https://youtu.be/UjivxozPW4o_
 
 
 
-**Integrantes:
+**Integrantes**
 
-Scrum Master:**
+**Scrum Master:**
 
 
 Ana Amorim
