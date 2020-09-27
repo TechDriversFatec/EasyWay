@@ -5,7 +5,7 @@ O **Link** para acesso ao Vídeo de Informações sobre o Projeto Integrador:
 _https://youtu.be/UjivxozPW4o_
 
 
-
+____________________________________________________________________________
 
 
 **Integrantes**
@@ -30,7 +30,7 @@ Paulo Vitor Lima Domingues
 
 Pedro Lucas dos Santos Rodrigues
 
-
+_______________________________
 **Sumário**
 
 1.	Estória do Usuário	3
