@@ -35,10 +35,12 @@ Sprint`s para entrega do Projeto Integrador:
 ___________________________________________________________________________________________________________________________________________
 
 1.	Estória do Usuário
+
 O motorista está tendo problemas com as rotas e tempo, em casos de usuários que não avisam que irão utilizar a van, perdendo tempo e gerando gastos, ou em casos que os usuários avisam existe perda de tempo com mapeamento de novas rotas. Assim o motorista deseja um aplicativo que solucione esses problemas.
 
 
 2.	Requisitos Funcionais
+
 2.1 Motorista
 
 Gerenciamento de Destino:
@@ -58,7 +60,9 @@ Gerenciamento de Passageiro:
 •	O passageiro pode mudar de ideia e enviar alteração sobre a utilização da van.
 
 2.3 Aplicação
+
 Rota:
+
 •	O aplicativo deve sugerir as rotas a partir do ponto de saída;
 •	O aplicativo deve organizar a ordem de busca de passageiros; e
 •	O motorista pode alterar o horário de chegada para cada passageiro.
