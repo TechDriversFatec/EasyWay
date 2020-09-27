@@ -1,13 +1,15 @@
 # Easy Way
 
-O Link para acesso ao Vídeo de Informações sobre o Projeto Integrador:
+O **Link** para acesso ao Vídeo de Informações sobre o Projeto Integrador:
 
-https://youtu.be/UjivxozPW4o
+_https://youtu.be/UjivxozPW4o_
+
 
 
 
 
 **Integrantes:
+
 Scrum Master:**
 
 
