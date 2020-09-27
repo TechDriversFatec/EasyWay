@@ -18,7 +18,7 @@ Isaque Costa Beirao,
 Junio Luiz Sendreto dos Santos,
 Paulo Vitor Lima e
 Pedro Lucas dos Santos Rodrigues
-
+___________________________________________________________________________________________________________________________________________
 
 Sprint`s para entrega do Projeto Integrador:
 
@@ -32,6 +32,7 @@ Sprint`s para entrega do Projeto Integrador:
   4ª Sprint – 29/11 – Entrega do Aplicativo EasyWay.
 
 
+___________________________________________________________________________________________________________________________________________
 
 1.	Estória do Usuário
 O motorista está tendo problemas com as rotas e tempo, em casos de usuários que não avisam que irão utilizar a van, perdendo tempo e gerando gastos, ou em casos que os usuários avisam existe perda de tempo com mapeamento de novas rotas. Assim o motorista deseja um aplicativo que solucione esses problemas.
