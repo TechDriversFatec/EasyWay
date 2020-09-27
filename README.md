@@ -22,9 +22,13 @@ Pedro Lucas dos Santos Rodrigues
 
 Sprint`s para entrega do Projeto Integrador:
 
+
   1ª Sprint – 27/09 – Entrega do Protótipo de Tela de Login e Cadastro.
+
   2ª Sprint – 17/10 – Entrega das telas Inicial, Criar Conta e Login;
+
   3ª Sprint – 08/11 – Entrega do Cadastro de Usuario,Motorista e Rotas(Mapas);
+
   4ª Sprint – 29/11 – Entrega do Aplicativo EasyWay.
 
 
