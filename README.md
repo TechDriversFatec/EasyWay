@@ -91,6 +91,7 @@ Hora Prevista:
 
 •	O Aplicativo deve ser feito com APP INVENTOR.
 
+
 4.	Sprints
 
 Sprint 0 - 27/09
