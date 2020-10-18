@@ -111,6 +111,7 @@ Sprint 3 - 29/11
 
 •   Tela de cadastro:
 A tela de cadastro é onde o usuario insere seus dados pessoais que é armazenado no firebase para um resgate futuro.
+![cadastro](https://gitlab.com/adrianormFatec/easyway2/-/blob/master/WhatsApp_Image_2020-10-18_at_17.02.01.jpeg)
 
 •   Tela de login:
 Nesta tela o usuario insere dados que foram usados no seu cadastro, ou seja, armazenados no firebase para a verificação da sua conta, 
