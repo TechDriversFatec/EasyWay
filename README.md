@@ -107,3 +107,25 @@ Sprint 2 - 08/11
 
 Sprint 3 - 29/11
 •	Gerenciamento de Hora Prevista
+
+
+•   Tela de cadastro:
+A tela de cadastro é onde o usuario insere seus dados pessoais que é armazenado no firebase para um resgate futuro.
+
+•   Tela de login:
+Nesta tela o usuario insere dados que foram usados no seu cadastro, ou seja, armazenados no firebase para a verificação da sua conta, 
+tanto do tipo passageiro quanto motorista.
+
+•   Tela inicial Motorista:
+A tela inicial motorista possui um botão escrito "Listar Passageiros", que quando pressionado exibe uma lista onde há os passageiros já cadastrados.
+
+•   Tela inicial Passageiro:
+A tela inicial passageiro possui um botão escrito "Alterar Dados", que quando pressionado o redireciona para uma 
+outra tela de cadastro (Tela Cadastro 02).
+
+•   Informacões do passageiro:
+Essa tela é acessada a partir da tela inicial, que ao clicar no nome de um passageiro, o usuario é redirecionado para a tela informações Passageiro.
+Esta tela contem informações pessoais do passageiro em questão, também a opção de exclui-lo e voltar para a tela inicial.
+
+•   Tela de Cadastro 02:
+Essa tela é identica a (Cadastro), porém nela existe informações especificas disponiveis para alteração.
