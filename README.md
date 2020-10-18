@@ -109,6 +109,11 @@ Sprint 3 - 29/11
 •	Gerenciamento de Hora Prevista
 
 
+
+
+**No Sprint 1  foram feitos os seguintes itens:**
+
+
 •   Tela de cadastro:
 A tela de cadastro é onde o usuario insere seus dados pessoais que é armazenado no firebase para um resgate futuro.
 ![cadastro](https://gitlab.com/adrianormFatec/easyway2/-/blob/master/WhatsApp_Image_2020-10-18_at_17.02.01.jpeg)
@@ -130,3 +135,4 @@ Esta tela contem informações pessoais do passageiro em questão, também a op�
 
 •   Tela de Cadastro 02:
 Essa tela é identica a (Cadastro), porém nela existe informações especificas disponiveis para alteração.
+
