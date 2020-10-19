@@ -35,9 +35,15 @@ ________________________________________________________________________________
 
 
 
-O **Link** para acesso ao Vídeo de Informações sobre o Projeto Integrador:
+
+
+
+
+O **Link** para acesso ao Vídeo de Informações sobre o Projeto Integrador - Sprint 0
 
 _https://youtu.be/UjivxozPW4o_
+
+
 
 
 ____________________________________________________________________________
@@ -51,6 +57,7 @@ ____________________________________________________________________________
 Ana Amorim
 
 Pedro Minicz
+
 
 **Time:**
 
@@ -142,7 +149,5 @@ Sprint 2 - 08/11
 
 Sprint 3 - 29/11
 •	Gerenciamento de Hora Prevista
-
-
 
 
