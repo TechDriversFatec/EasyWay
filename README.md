@@ -2,7 +2,14 @@
 
 
 
+# Sprint 02
 
+• Foi criado na tela de cadastro a opção de rotas para a coleta de passageiros pelo motorista
+• Para a  criação do ponto de encontro foram observados alguns critérios: - distância do ponte de encontro até sua casa ou local de trabalho não pode ultrapassar 1 km 
+• Assim foram criadas 4 rotas com horários de ida e volta para o passageiro: Rotas: Vale sul , CTA, Makro e Spani as rotas são da cidade de São josé dos Campos 
+• Criado um botão para selecionar se o passageiro irá ou não aquele dia , essa informação aparecerá para o motorista
+ 
+__________________________________________________________________________________________________________________________
 
 
 **No Sprint 1  foram feitos os seguintes itens:**
@@ -30,13 +37,6 @@ Esta tela contem informações pessoais do passageiro em questão, também a op�
 •   Tela de Cadastro 02:
 Essa tela é identica a (Cadastro), porém nela existe informações especificas disponiveis para alteração.
 
-# Sprint 02
-
-• Foi criado na tela de cadastro a opção de rotas para a coleta de passageiros pelo motorista
-• Para a  criação do ponto de encontro foram observados alguns critérios: - distância do ponte de encontro até sua casa ou local de trabalho não pode ultrapassar 1 km 
-• Assim foram criadas 4 rotas com horários de ida e volta para o passageiro: Rotas: Vale sul , CTA, Makro e Spani as rotas são da cidade de São josé dos Campos 
-• Criado um botão para selecionar se o passageiro irá ou não aquele dia , essa informação aparecerá para o motorista
- 
 
 
 __________________________________________________________________________________________________________________________________________________
