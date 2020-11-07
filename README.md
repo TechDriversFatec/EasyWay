@@ -71,13 +71,9 @@ Pedro Minicz
 
 Adriano Ribeiro Martins
 
-Fernando Daniel S.A.de Araujo
+Fernando Daniel Sa de Araujo
 
 Isaque Costa Beirao
-
-Junio Luiz Sendreto dos Santos
-
-Paulo Vitor Lima Domingues
 
 Pedro Lucas dos Santos Rodrigues
 
