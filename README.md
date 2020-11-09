@@ -18,6 +18,30 @@
 __________________________________________________________________________________________________________________________
 
 
+
+**Integrantes**
+
+**Scrum Master:**
+
+
+Ana Amorim
+
+Pedro Minicz
+
+
+**Time:**
+
+Adriano Ribeiro Martins
+
+Fernando Daniel Sa de Araujo
+
+Isaque Costa Beirao
+
+Pedro Lucas dos Santos Rodrigues
+
+
+__________________________________________________________________________________________________________________________________________________
+
 **No Sprint 1  foram feitos os seguintes itens:**
 
 
@@ -63,27 +87,6 @@ _https://youtu.be/UjivxozPW4o_
 ____________________________________________________________________________
 
 
-**Integrantes**
-
-**Scrum Master:**
-
-
-Ana Amorim
-
-Pedro Minicz
-
-
-**Time:**
-
-Adriano Ribeiro Martins
-
-Fernando Daniel Sa de Araujo
-
-Isaque Costa Beirao
-
-Pedro Lucas dos Santos Rodrigues
-
-__________________________________________________________________________________________________________________________________________________
 
 **Sumário**
 
