@@ -4,7 +4,7 @@
 
 # Sprint 02
 
-• Foi criado na tela de cadastro a opção de rotas para a coleta de passageiros pelo motorista.
+• Foi criado na tela de Inicio, a opção de rotas para a coleta de passageiros pelo motorista, tanto a rota para ida quanto a volta do Destino.
 
 • Para a  criação do ponto de encontro foram observados alguns critérios: - distância do ponte de encontro até sua casa ou local de trabalho não pode ultrapassar 1 km 
 
