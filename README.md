@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 **Integrantes**
 
-**Scrum Master:**
+**Scrum Master: **
 
 
 Ana Amorim
@@ -29,7 +29,7 @@ Ana Amorim
 Pedro Minicz
 
 
-**Time:**
+**Time: **
 
 Adriano Ribeiro Martins
 
