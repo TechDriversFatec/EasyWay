@@ -4,10 +4,16 @@
 
 # Sprint 02
 
-• Foi criado na tela de cadastro a opção de rotas para a coleta de passageiros pelo motorista
+• Foi criado na tela de cadastro a opção de rotas para a coleta de passageiros pelo motorista.
+
 • Para a  criação do ponto de encontro foram observados alguns critérios: - distância do ponte de encontro até sua casa ou local de trabalho não pode ultrapassar 1 km 
+
 • Assim foram criadas 4 rotas com horários de ida e volta para o passageiro: Rotas: Vale sul , CTA, Makro e Spani as rotas são da cidade de São josé dos Campos 
-• Criado um botão para selecionar se o passageiro irá ou não aquele dia , essa informação aparecerá para o motorista
+
+• Criado um chat para batepapo entre o motorista e os passageiros da Van, no qual pode-se trocar mensagens em tempo real.
+
+• Inserido uma pop-up, para que após o cadastro do usuário, o mesmo seja informado o horário no qual dever estar no ponto para acesso a Van. Também haverá um botão para consulta posterior deste mesmo horário.
+
  
 __________________________________________________________________________________________________________________________
 
@@ -21,10 +27,10 @@ A tela de cadastro é onde o usuario insere seus dados pessoais que é armazenad
 
 •   Tela de login:
 Nesta tela o usuario insere dados que foram usados no seu cadastro, ou seja, armazenados no firebase para a verificação da sua conta, 
-tanto do tipo passageiro quanto motorista.
+tanto do tipo passageiro, quanto motorista.
 
 •   Tela inicial Motorista:
-A tela inicial motorista possui um botão escrito "Listar Passageiros", que quando pressionado exibe uma lista onde há os passageiros já cadastrados.
+A tela inicial motorista possui um botão escrito "Listar Passageiros", que quando pressionado exibe uma lista onde os passageiros já cadastrados.
 
 •   Tela inicial Passageiro:
 A tela inicial passageiro possui um botão escrito "Alterar Dados", que quando pressionado o redireciona para uma 
