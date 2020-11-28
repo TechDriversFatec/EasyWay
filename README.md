@@ -14,6 +14,12 @@
 
 • Inserido uma pop-up, para que após o cadastro do usuário, o mesmo seja informado o horário no qual dever estar no ponto para acesso a Van. Também haverá um botão para consulta posterior deste mesmo horário.
 
+# Sprint 03
+
+• Admnstração da hora e local de encontro pelo motorista através do canal ''chat'' criado 
+
+• será instalado o botão siga-me para acompanhamento dos Pais dos alunos para localização / segurança do cliente da Van
+
  
 __________________________________________________________________________________________________________________________
 
