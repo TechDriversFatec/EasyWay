@@ -172,3 +172,4 @@ Sprint 3 - 29/11
 •	Gerenciamento de Hora Prevista
 
 
+# EasyWay
